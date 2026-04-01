@@ -5,8 +5,7 @@ Well this is 6U rack for mini pcs using modulatr t_slot metals
 
 <img width="717" height="604" alt="image" src="https://github.com/user-attachments/assets/96bfc4b5-56f5-4633-a7b9-c278e2f94cdd" />
 
-
-# BOM 
+ 
 # Bill of Materials (BOM)
 ==============================================
 PARTS LIST
