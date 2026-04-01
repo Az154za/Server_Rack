@@ -1,11 +1,20 @@
 # Server_Rack
 Well this is 6U rack for mini pcs using modulatr t_slot metals 
-
+I made also a fan controller that provides 12V and 3A for two fans using usb-c PD 
 # 3D image overview
 
 <img width="717" height="604" alt="image" src="https://github.com/user-attachments/assets/96bfc4b5-56f5-4633-a7b9-c278e2f94cdd" />
+# Schematic 
 
- 
+
+# Routing
+
+
+
+# 3D overview
+
+
+
 # Bill of Materials (BOM)
 
 | Part Name           | Qty | Part No (JLCMC) | Unit Price |
@@ -18,5 +27,4 @@ Well this is 6U rack for mini pcs using modulatr t_slot metals
 | 2020 T-Slot Part C  |   4 | -               | -          |
 |---------------------|-----|-----------------|------------|
 | TOTAL               | 228 |                 |            |
-
-
+project is still work in progress
