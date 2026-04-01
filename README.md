@@ -7,9 +7,6 @@ Well this is 6U rack for mini pcs using modulatr t_slot metals
 
  
 # Bill of Materials (BOM)
-==============================================
-PARTS LIST
-==============================================
 
 | Part Name           | Qty | Part No (JLCMC) | Unit Price |
 |---------------------|-----|-----------------|------------|
