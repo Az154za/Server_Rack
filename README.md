@@ -22,8 +22,8 @@ I made also a fan controller that provides 12V and 3A for two fans using usb-c P
 
 | Part Name           | Qty | Part No (JLCMC) | Unit Price |
 |---------------------|-----|-----------------|------------|
-| Hex Screw M5        |  96 | -               | -          |
-| T-Nut M5            |  96 | -               | -          |
+| Hex Screw M4        |  96 | -               | -          |
+| T-Nut M4            |  96 | -               | -          |
 | Triangle Bracket    |  24 | -               | -          |
 | 2020 T-Slot Part A  |   4 | -               | -          |
 | 2020 T-Slot Part B  |   4 | -               | -          |
